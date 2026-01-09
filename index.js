@@ -1,8 +1,8 @@
 const mineflayer = require("mineflayer");
 
-const BOT_NAME = "RailwayBot"; // bot username
+const BOT_NAME = "Mega-Martin-AFK"; // bot username
 const PASSWORD = "chatgpt.chadgpt"; // auto login password
-const SERVER_IP = "YOUR_SERVER_IP"; // put your server IP
+const SERVER_IP = "Mega_Martin.aternos.me"; // put your server IP
 const SERVER_PORT = 25565; // default port
 
 function startBot() {
